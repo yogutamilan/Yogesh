@@ -5,7 +5,7 @@ int main()
 {
     int year;
 
-    cout << "Enter a year: ";
+    cout << "Enter  year you want check: ";
     cin >> year;
 
     if (year % 4 == 0)
