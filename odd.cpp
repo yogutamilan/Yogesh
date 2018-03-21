@@ -5,7 +5,7 @@ int main()
 {
     int n;
 
-    cout << "Enter an integer: ";
+    cout << "Enter number: ";
     cin >> n;
 
     if ( n % 2 == 0)
